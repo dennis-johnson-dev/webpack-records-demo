@@ -10,3 +10,5 @@ jobs:
     steps:
       - checkout
       - run: yarn install
+      - store_artifacts:
+          path: ~/repo/records.json

@@ -5,6 +5,11 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "lodash": "^4.17.4",
+    "react": "^15.6.1",
     "webpack": "^3.3.0"
+  },
+  "scripts": {
+    "build": "rm -rf lib && mkdir lib && webpack"
   }
 }
