@@ -1,0 +1,10 @@
+{
+  "name": "webpack-records-demo",
+  "version": "1.0.0",
+  "author": "Dennis Johnson",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^3.3.0"
+  }
+}
