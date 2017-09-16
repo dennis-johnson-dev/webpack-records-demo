@@ -1,3 +1,3 @@
-const superagent = require('superagent');
+const superagent = require("superagent");
 
-module.exports = 'vendor, foo';
+module.exports = "vendor, foo hai";
